@@ -336,7 +336,7 @@ workflow {
                 case '3prime':
                     switch(kit_version){
                         case 'v2':
-                            long_list = "737K-august-2016.txt.gz"
+                            long_list = "visium-v1_coordinates.txt.gz"
                             break
                         case 'v3':
                             long_list = "3M-february-2018.txt.gz"
